@@ -1,1 +1,1 @@
-Big data anlisis with Python and Google Colab.
+Big data analisis with Python and Google Colab.
